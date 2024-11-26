@@ -1,6 +1,8 @@
+```
 ┏┓┓             
 ┣┫┣┓┏┓┓┏╋  ┏┳┓┏┓
 ┛┗┗┛┗┛┗┻┗  ┛┗┗┗ 
+```
                                     
 I’m currently learning C#/DOTNET and SQL.
 I’m looking to collaborate on beginner or intermediate projects<br>
