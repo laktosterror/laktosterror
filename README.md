@@ -1,13 +1,6 @@
-```
-┏┓┓             
-┣┫┣┓┏┓┓┏╋  ┏┳┓┏┓
-┛┗┗┛┗┛┗┻┗  ┛┗┗┗ 
-```
-                                    
-I’m currently learning C#/DOTNET and SQL.
-I’m looking to collaborate on beginner or intermediate projects<br>
 
-```
+#### Working operations engineer learns to code, you won't believe what happens next!
+
 ┏┳┓   ┓
  ┃ ┏┓┏┣┓
  ┻ ┗ ┗┛┗
