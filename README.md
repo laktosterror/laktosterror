@@ -1,23 +1,31 @@
-```
-┳┳┓   
-┃┃┃┏┓•
-┛ ┗┗ •
-```
+#### What im using right now:<br>
+![csharp](https://img.shields.io/badge/csharp-ffffff?logo=csharp&style=for-the-badge&color=ffffff&logoColor=542091)
+![Dotnet](https://img.shields.io/badge/Dotnet-ffffff?logo=dotnet&style=for-the-badge&color=ffffff&logoColor=512BD4)
+![mssql](https://img.shields.io/badge/mssql-ffffff?logo=microsoftsqlserver&style=for-the-badge&color=ffffff&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?logo=mongodb&style=for-the-badge&color=ffffff&logoColor=47A248)
+![docker](https://img.shields.io/badge/docker-ffffff?logo=docker&style=for-the-badge&color=ffffff&logoColor=2496ED)
+![NIXOS](https://img.shields.io/badge/NIXOS-ffffff?logo=nixos&style=for-the-badge&color=ffffff&logoColor=5277C3)
+![Linux](https://img.shields.io/badge/Linux-ffffff?logo=linux&style=for-the-badge&color=ffffff&logoColor=000000)
 
-Sysadmin learns to code, you won't believe what happens next!
 
-```
-┏┳┓   ┓
- ┃ ┏┓┏┣┓•
- ┻ ┗ ┗┛┗•
-```
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+#### What i have used:<br>
+![ansible](https://img.shields.io/badge/ansible-ffffff?logo=ansible&style=for-the-badge&color=ffffff&logoColor=EE0000)
+![powershell](https://img.shields.io/badge/powershell-ffffff?logo=powershell&style=for-the-badge&color=ffffff&logoColor=5391FE)
+![terraform](https://img.shields.io/badge/terraform-ffffff?logo=terraform&style=for-the-badge&color=ffffff&logoColor=7B42BC)
+![azure](https://img.shields.io/badge/azure-ffffff?logo=microsoftazure&style=for-the-badge&color=ffffff&logoColor=0078D4)
+![azure devops](https://img.shields.io/badge/azure%20devops-ffffff?logo=azuredevops&style=for-the-badge&color=ffffff&logoColor=0078D7)
+![github actions](https://img.shields.io/badge/github%20actions-ffffff?logo=githubactions&style=for-the-badge&color=ffffff&logoColor=2088FF)
+![grafana](https://img.shields.io/badge/grafana-ffffff?logo=grafana&style=for-the-badge&color=ffffff&logoColor=F46800)
+![fedora coreos](https://img.shields.io/badge/fedora%20coreos-ffffff?logo=fedora&style=for-the-badge&color=ffffff&logoColor=51A2DA)
+![ubuntu](https://img.shields.io/badge/ubuntu-ffffff?logo=ubuntu&style=for-the-badge&color=ffffff&logoColor=E95420)
+![Oracle cloud](https://img.shields.io/badge/Oracle%20cloud-ffffff?logo=oracle&style=for-the-badge&color=ffffff&logoColor=F80000)
 
-```
-┏┓     
-┗┓╋┏┓╋┏•
-┗┛┗┗┻┗┛•
-```
-![](https://github-readme-stats.vercel.app/api?username=laktosterror&theme=dark&hide_border=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=laktosterror&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laktosterror&theme=dark&hide_border=false&count_private=true&layout=compact)
+#### What i have dabbeled with:<br>
+![kubernetes](https://img.shields.io/badge/kubernetes-ffffff?logo=kubernetes&style=for-the-badge&color=ffffff&logoColor=326CE5)
+![postgresql](https://img.shields.io/badge/postgresql-ffffff?logo=postgresql&style=for-the-badge&color=ffffff&logoColor=4169E1)
+![nginx](https://img.shields.io/badge/nginx-ffffff?logo=nginx&style=for-the-badge&color=ffffff&logoColor=009639)
+![influxdb](https://img.shields.io/badge/influxdb-ffffff?logo=influxdb&style=for-the-badge&color=ffffff&logoColor=22ADF6)
+![graylog](https://img.shields.io/badge/graylog-ffffff?logo=graylog&style=for-the-badge&color=ffffff&logoColor=FF3633)
+![selenium](https://img.shields.io/badge/selenium-ffffff?logo=selenium&style=for-the-badge&color=ffffff&logoColor=43B02A)
+![packer](https://img.shields.io/badge/packer-ffffff?logo=packer&style=for-the-badge&color=ffffff&logoColor=02A8EF)
+
