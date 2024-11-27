@@ -5,7 +5,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?logo=mongodb&style=for-the-badge&color=ffffff&logoColor=47A248)
 ![docker](https://img.shields.io/badge/docker-ffffff?logo=docker&style=for-the-badge&color=ffffff&logoColor=2496ED)
 ![NIXOS](https://img.shields.io/badge/NIXOS-ffffff?logo=nixos&style=for-the-badge&color=ffffff&logoColor=5277C3)
-![Linux](https://img.shields.io/badge/Linux-ffffff?logo=linux&style=for-the-badge&color=ffffff&logoColor=000000)
 
 
 #### What i have used:<br>
