@@ -20,7 +20,7 @@
 ![ubuntu](https://img.shields.io/badge/ubuntu-ffffff?logo=ubuntu&style=for-the-badge&color=ffffff&logoColor=E95420)
 ![Oracle cloud](https://img.shields.io/badge/Oracle%20cloud-ffffff?logo=oracle&style=for-the-badge&color=ffffff&logoColor=F80000)
 
-#### What i have dabbeled with:<br>
+#### What i have dabbled with:<br>
 ![kubernetes](https://img.shields.io/badge/kubernetes-ffffff?logo=kubernetes&style=for-the-badge&color=ffffff&logoColor=326CE5)
 ![postgresql](https://img.shields.io/badge/postgresql-ffffff?logo=postgresql&style=for-the-badge&color=ffffff&logoColor=4169E1)
 ![nginx](https://img.shields.io/badge/nginx-ffffff?logo=nginx&style=for-the-badge&color=ffffff&logoColor=009639)
