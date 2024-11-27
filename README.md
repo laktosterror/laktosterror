@@ -28,6 +28,8 @@
 ![graylog](https://img.shields.io/badge/graylog-ffffff?logo=graylog&style=for-the-badge&color=ffffff&logoColor=FF3633)
 ![selenium](https://img.shields.io/badge/selenium-ffffff?logo=selenium&style=for-the-badge&color=ffffff&logoColor=43B02A)
 ![packer](https://img.shields.io/badge/packer-ffffff?logo=packer&style=for-the-badge&color=ffffff&logoColor=02A8EF)
+![arduino](https://img.shields.io/badge/arduino-ffffff?logo=arduino&style=for-the-badge&color=ffffff&logoColor=00979D)
+![mqtt](https://img.shields.io/badge/mqtt-ffffff?logo=mqtt&style=for-the-badge&color=ffffff&logoColor=660066)
 ![...](https://img.shields.io/badge/...-ffffff?style=for-the-badge&color=ffffff)
 
 
