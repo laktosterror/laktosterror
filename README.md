@@ -4,6 +4,9 @@
 ![mssql](https://img.shields.io/badge/mssql-ffffff?logo=microsoftsqlserver&style=for-the-badge&color=ffffff&logoColor=CC2927)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?logo=mongodb&style=for-the-badge&color=ffffff&logoColor=47A248)
 ![docker](https://img.shields.io/badge/docker-ffffff?logo=docker&style=for-the-badge&color=ffffff&logoColor=2496ED)
+![kubernetes](https://img.shields.io/badge/kubernetes-ffffff?logo=kubernetes&style=for-the-badge&color=ffffff&logoColor=326CE5)
+![nginx](https://img.shields.io/badge/nginx-ffffff?logo=nginx&style=for-the-badge&color=ffffff&logoColor=009639)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ffffff?logo=rabbitmq&style=for-the-badge&color=ffffff&logoColor=5277C3)
 ![NIXOS](https://img.shields.io/badge/NIXOS-ffffff?logo=nixos&style=for-the-badge&color=ffffff&logoColor=5277C3)
 
 
@@ -21,9 +24,7 @@
 ![...](https://img.shields.io/badge/...-ffffff?style=for-the-badge&color=ffffff)
 
 #### What i have dabbled with:<br>
-![kubernetes](https://img.shields.io/badge/kubernetes-ffffff?logo=kubernetes&style=for-the-badge&color=ffffff&logoColor=326CE5)
 ![postgresql](https://img.shields.io/badge/postgresql-ffffff?logo=postgresql&style=for-the-badge&color=ffffff&logoColor=4169E1)
-![nginx](https://img.shields.io/badge/nginx-ffffff?logo=nginx&style=for-the-badge&color=ffffff&logoColor=009639)
 ![influxdb](https://img.shields.io/badge/influxdb-ffffff?logo=influxdb&style=for-the-badge&color=ffffff&logoColor=22ADF6)
 ![graylog](https://img.shields.io/badge/graylog-ffffff?logo=graylog&style=for-the-badge&color=ffffff&logoColor=FF3633)
 ![selenium](https://img.shields.io/badge/selenium-ffffff?logo=selenium&style=for-the-badge&color=ffffff&logoColor=43B02A)
