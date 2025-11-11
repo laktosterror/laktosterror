@@ -1,5 +1,4 @@
 #### What im doing right now:<br>
-![csharp](https://img.shields.io/badge/csharp-ffffff?logo=csharp&style=for-the-badge&color=ffffff&logoColor=542091)
 ![Dotnet](https://img.shields.io/badge/Dotnet-ffffff?logo=dotnet&style=for-the-badge&color=ffffff&logoColor=512BD4)
 ![mssql](https://img.shields.io/badge/mssql-ffffff?logo=microsoftsqlserver&style=for-the-badge&color=ffffff&logoColor=CC2927)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?logo=mongodb&style=for-the-badge&color=ffffff&logoColor=47A248)
