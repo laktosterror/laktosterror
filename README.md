@@ -1,5 +1,7 @@
-#### What im doing right now:<br>
+#### New interessts:<br>
 ![Crystal](https://img.shields.io/badge/Crystal-ffffff?logo=crystal&style=for-the-badge&color=ffffff&logoColor=000000)
+
+#### Some daily stuff:<br>
 ![Dotnet](https://img.shields.io/badge/Dotnet-ffffff?logo=dotnet&style=for-the-badge&color=ffffff&logoColor=512BD4)
 ![NIXOS](https://img.shields.io/badge/NIXOS-ffffff?logo=nixos&style=for-the-badge&color=ffffff&logoColor=5277C3)
 ![mssql](https://img.shields.io/badge/mssql-ffffff?logo=microsoftsqlserver&style=for-the-badge&color=ffffff&logoColor=CC2927)
@@ -9,7 +11,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ffffff?logo=rabbitmq&style=for-the-badge&color=ffffff&logoColor=5277C3)
 
 
-#### What i have used:<br>
+#### Some tech used earlier:<br>
 ![nginx](https://img.shields.io/badge/nginx-ffffff?logo=nginx&style=for-the-badge&color=ffffff&logoColor=009639)
 ![ansible](https://img.shields.io/badge/ansible-ffffff?logo=ansible&style=for-the-badge&color=ffffff&logoColor=EE0000)
 ![powershell](https://img.shields.io/badge/powershell-ffffff?logo=powershell&style=for-the-badge&color=ffffff&logoColor=5391FE)
@@ -23,7 +25,7 @@
 ![Oracle cloud](https://img.shields.io/badge/Oracle%20cloud-ffffff?logo=oracle&style=for-the-badge&color=ffffff&logoColor=F80000)
 ![...](https://img.shields.io/badge/...-ffffff?style=for-the-badge&color=ffffff)
 
-#### What i have dabbled with:<br>
+#### Misc dabbles:<br>
 ![postgresql](https://img.shields.io/badge/postgresql-ffffff?logo=postgresql&style=for-the-badge&color=ffffff&logoColor=4169E1)
 ![influxdb](https://img.shields.io/badge/influxdb-ffffff?logo=influxdb&style=for-the-badge&color=ffffff&logoColor=22ADF6)
 ![graylog](https://img.shields.io/badge/graylog-ffffff?logo=graylog&style=for-the-badge&color=ffffff&logoColor=FF3633)
@@ -32,6 +34,3 @@
 ![arduino](https://img.shields.io/badge/arduino-ffffff?logo=arduino&style=for-the-badge&color=ffffff&logoColor=00979D)
 ![mqtt](https://img.shields.io/badge/mqtt-ffffff?logo=mqtt&style=for-the-badge&color=ffffff&logoColor=660066)
 ![...](https://img.shields.io/badge/...-ffffff?style=for-the-badge&color=ffffff)
-
-
-<span style="color:blue">*above are some picks, the list is long...*</span>
