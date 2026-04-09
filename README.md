@@ -1,4 +1,4 @@
-#### New interessts:<br>
+#### Interests:<br>
 ![Crystal](https://img.shields.io/badge/Crystal-ffffff?logo=crystal&style=for-the-badge&color=ffffff&logoColor=000000)
 
 #### Some daily stuff:<br>
