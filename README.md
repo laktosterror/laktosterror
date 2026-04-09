@@ -4,14 +4,14 @@
 #### Some daily stuff:<br>
 ![Dotnet](https://img.shields.io/badge/Dotnet-ffffff?logo=dotnet&style=for-the-badge&color=ffffff&logoColor=512BD4)
 ![NIXOS](https://img.shields.io/badge/NIXOS-ffffff?logo=nixos&style=for-the-badge&color=ffffff&logoColor=5277C3)
-![mssql](https://img.shields.io/badge/mssql-ffffff?logo=microsoftsqlserver&style=for-the-badge&color=ffffff&logoColor=CC2927)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?logo=mongodb&style=for-the-badge&color=ffffff&logoColor=47A248)
-![docker](https://img.shields.io/badge/docker-ffffff?logo=docker&style=for-the-badge&color=ffffff&logoColor=2496ED)
 ![kubernetes](https://img.shields.io/badge/kubernetes-ffffff?logo=kubernetes&style=for-the-badge&color=ffffff&logoColor=326CE5)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ffffff?logo=rabbitmq&style=for-the-badge&color=ffffff&logoColor=5277C3)
 
 
 #### Some tech used earlier:<br>
+![docker](https://img.shields.io/badge/docker-ffffff?logo=docker&style=for-the-badge&color=ffffff&logoColor=2496ED)
+![mssql](https://img.shields.io/badge/mssql-ffffff?logo=microsoftsqlserver&style=for-the-badge&color=ffffff&logoColor=CC2927)
 ![nginx](https://img.shields.io/badge/nginx-ffffff?logo=nginx&style=for-the-badge&color=ffffff&logoColor=009639)
 ![ansible](https://img.shields.io/badge/ansible-ffffff?logo=ansible&style=for-the-badge&color=ffffff&logoColor=EE0000)
 ![powershell](https://img.shields.io/badge/powershell-ffffff?logo=powershell&style=for-the-badge&color=ffffff&logoColor=5391FE)
