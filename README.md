@@ -1,3 +1,41 @@
+Backend engineer working mostly in .NET/C#, with serverless functions and NoSQL databases as my go-to for event-driven systems. Favor Vertical Slice Architecture over layered/onion approaches.
+
+---
+
+### Core stack
+
+![Csharp](https://img.shields.io/badge/Csharp-ffffff?logo=csharp&style=for-the-badge&color=ffffff&logoColor=239120)
+![Dotnet](https://img.shields.io/badge/Dotnet-ffffff?logo=dotnet&style=for-the-badge&color=ffffff&logoColor=512BD4)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-ffffff?logo=azurefunctions&style=for-the-badge&color=ffffff&logoColor=0062AD)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-ffffff?logo=azurecosmosdb&style=for-the-badge&color=ffffff&logoColor=3999C6)
+![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-ffffff?logo=microsoftazure&style=for-the-badge&color=ffffff&logoColor=0078D4)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-ffffff?logo=elasticsearch&style=for-the-badge&color=ffffff&logoColor=005571)
+
+### Infra & tooling
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-ffffff?logo=kubernetes&style=for-the-badge&color=ffffff&logoColor=326CE5)
+![NIXOS](https://img.shields.io/badge/NIXOS-ffffff?logo=nixos&style=for-the-badge&color=ffffff&logoColor=5277C3)
+![docker](https://img.shields.io/badge/docker-ffffff?logo=docker&style=for-the-badge&color=ffffff&logoColor=2496ED)
+![terraform](https://img.shields.io/badge/terraform-ffffff?logo=terraform&style=for-the-badge&color=ffffff&logoColor=7B42BC)
+![github actions](https://img.shields.io/badge/github%20actions-ffffff?logo=githubactions&style=for-the-badge&color=ffffff&logoColor=2088FF)
+
+---
+
+### Featured projects
+
+- **[project-name](https://github.com/you/project-name)** — one-sentence description of what it does and why it exists
+- **[project-name](https://github.com/you/project-name)** — one-sentence description
+- **[project-name](https://github.com/you/project-name)** — one-sentence description
+
+*(Swap in your 3 strongest repos — the ones that best show how you think, not just what you've touched.)*
+
+---
+
+Reach me: [your email or contact link]
+
+
+
+
 #### Interests:<br>
 ![Crystal](https://img.shields.io/badge/Crystal-ffffff?logo=crystal&style=for-the-badge&color=ffffff&logoColor=000000)
 
